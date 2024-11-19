@@ -2,3 +2,4 @@ flask
 pymongo
 dnspython
 echo "python-dotenv" 
+pytest
